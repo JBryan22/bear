@@ -1,4 +1,4 @@
-import { ObjectName } from './../js/object_name.js';
+import { HungryBear } from './../js/hungrybear.js';
 
 $(function() {
   $('#name-of-form').submit(function(event) {
